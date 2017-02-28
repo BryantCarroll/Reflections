@@ -1,0 +1,3 @@
+What happens when you initialize a repository? Why do you need to do it?
+Initializing a repository adds files in that directory to the repository. 
+This allows you to start tracking your commits and file changes.
