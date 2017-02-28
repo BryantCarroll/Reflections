@@ -6,3 +6,5 @@ The staging area is an area between the working directory and a repository. Its 
 to commit to a repository. 
 What value do you think it offers?
 This allows you to chose which files you want instead of doing all of them.
+How can you use the staging area to make sure you have one commit per logical change?
+After each change you add the file to the staging area and commit.
