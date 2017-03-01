@@ -17,3 +17,5 @@ Makes it easier to follow the branches from the master. Ie. Where the branch sta
 What is the result of merging two branches together? Why do we 
 represent it in the diagram the way we do?
 merge two branches into one. To show it when it was merged.
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Pro does it quickly. Con might merge something you dont want.
