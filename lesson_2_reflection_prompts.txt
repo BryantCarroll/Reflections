@@ -14,3 +14,6 @@ Working on a different language version, game mode version. Branches allows you 
 not change the master so if something doesnt work out your master copy isnt affected.
 How do the diagrams help you visualize the branch structure?
 Makes it easier to follow the branches from the master. Ie. Where the branch started from.
+What is the result of merging two branches together? Why do we 
+represent it in the diagram the way we do?
+merge two branches into one. To show it when it was merged.
