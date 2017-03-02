@@ -11,3 +11,6 @@ Fork is copying one repository in GitHub to another GitHub Account. Clone is cop
 from GitHub to your local instance or copying a local instance to another local location. Branching is
 creating a copy that is attached to the master copy.
 Fork => GitHub to GitHub, Clone => GitHub to Local, Branch => New Commit off the master
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+You can still work on something offline and know you have the latest copy at that time.
