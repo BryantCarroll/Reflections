@@ -14,3 +14,7 @@ Fork => GitHub to GitHub, Clone => GitHub to Local, Branch => New Commit off the
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 You can still work on something offline and know you have the latest copy at that time.
+
+How would you collaborate without using Git or GitHub? What would be easier, and 
+what would be harder?
+Use a different VCS. Depends on the software you use.
