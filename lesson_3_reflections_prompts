@@ -4,3 +4,10 @@ Backup of local instance or if you are working with multiple people.
 Why might you want to always pull changes manually rather than having Git automatically 
 stay up-to-date with your remote repository?
 It might pull something you do not want on your local instance.
+
+Describe the differences between forks, clones, and branches. When would you use one 
+instead of another?
+Fork is copying one repository in GitHub to another GitHub Account. Clone is copying a repository
+from GitHub to your local instance or copying a local instance to another local location. Branching is
+creating a copy that is attached to the master copy.
+Fork => GitHub to GitHub, Clone => GitHub to Local, Branch => New Commit off the master
